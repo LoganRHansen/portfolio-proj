@@ -1,0 +1,12 @@
+body{
+	background-color: green;
+}
+h3{
+	color: orange;
+}
+.boldClass{
+	font-weight: bold;
+}
+#bigID{
+	font-size: 24px;
+}
